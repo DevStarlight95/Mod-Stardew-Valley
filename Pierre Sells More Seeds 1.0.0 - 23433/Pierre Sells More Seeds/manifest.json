@@ -1,0 +1,12 @@
+{
+  "Name": "Pierre Sells More Seeds",
+  "Author": "JullyRebequi",
+  "Version": "1.0.0",
+  "Description": "Add Mixed Seeds and Strawberry seed to Pierre's shop",
+  "UniqueID": "JullyRebequi.PSMS",
+  "MinimumApiVersion": "3.4.0",
+  "UpdateKeys": ["Nexus:23433"],
+ "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+  }

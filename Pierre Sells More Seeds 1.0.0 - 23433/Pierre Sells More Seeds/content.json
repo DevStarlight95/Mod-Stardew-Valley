@@ -1,0 +1,23 @@
+{
+    "Format": "2.0.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": ["SeedShop", "Items"],
+            "Entries": {
+                "Example.ModId_StrawberrySeeds": {
+                    "Id": "Example.ModId_StrawberrySeeds",
+                    "Condition": "SEASON Spring",
+                    "ItemId": "(O)745",
+                    "Price": 50
+                },
+                "Example.ModId_MixedSeeds": {
+                    "Id": "Example.ModId_MixedSeeds",
+                    "ItemId": "(O)770",
+                    "Price": 1
+                }
+            }
+        }
+    ]
+}
